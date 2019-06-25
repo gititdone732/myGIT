@@ -3,3 +3,4 @@ git add chunks
 git dont add this chunk
 verifying whether stashed changes conflicts
 git diff
+checking usage of git tag
